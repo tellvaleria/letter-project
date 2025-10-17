@@ -5,7 +5,7 @@
 }
 body {
   font-family: "Georgia", serif;
-  background: #BF1717;
+  background: #f6eee3;
   color: #fff;
   display: flex;
   justify-content: center;
@@ -84,6 +84,7 @@ body {
   pointer-events: none;
   transform: rotate(-2deg);
 }
+
 
 
 
