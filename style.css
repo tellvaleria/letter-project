@@ -38,9 +38,9 @@ body {
   display: none;
   background: repeating-linear-gradient(
     to bottom,
-    #fdf6e3 20PX,
-    #fdf6e3 47PX,
-    #d2d2d2 48PX
+    #fdf6e3 0,
+    #fdf6e3 27,
+    #d2d2d2 28PX
   );
   color: #333;
   padding: 80PX 80PX 60px 160PX;
@@ -84,5 +84,6 @@ body {
   pointer-events: none;
   transform: rotate(-2deg);
 }
+
 
 
