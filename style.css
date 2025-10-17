@@ -24,7 +24,7 @@ body {
 .btn {
   padding: 40PX 80PX;
   font-size: 1rem;
-  background: #f5eeef;
+  background: #bf1717;
   border: none;
   border-radius: 80PX;
   cursor: pointer;
@@ -32,7 +32,7 @@ body {
   transition: 0.3s;
 }
 .btn:hover {
-  background: #F6EEE3;
+  background: #F5EEE3;
 }
 .letter {
   display: none;
@@ -84,6 +84,7 @@ body {
   pointer-events: none;
   transform: rotate(-2deg);
 }
+
 
 
 
