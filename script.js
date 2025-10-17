@@ -24,7 +24,8 @@ function showLetter() {
     }
 
     typeWriter();
-  }, 600);
+  }, 500);
 }
+
 
 
