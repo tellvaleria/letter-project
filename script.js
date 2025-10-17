@@ -1,4 +1,11 @@
-const message = `I don’t even know if you’ll ever read this.\nBut if you do… I just want you to know, I still think about you sometimes.\n\nWe both tried. We both cared. But the universe just never gave us enough space to become “us.”\n\nI just wonder… if we had met at a different point in life, would the ending have been different?\n\nAnyway, I hope you're doing okay, even though we’re not in each other’s lives anymore.`;
+const message = `لى وليد، 
+اؤمن ان اغلى مايمكن اهدائه هو الكلمات، وارى انك تستاهل الكثير منها
+
+اولا كل عام وانت بخير .. الله يجعل هذا العمر فاتحه خير عليك ويكتب لك ماتتمنى ويغنيك ويرزقك رزق واسع مبارك فيه. اتمنى ان تكون باحسن حال دايم وابدا واني اشوفك سعيد حتى لو كنت بعيده عنك، كنت ولا زلت اخ عزيز لي طوال هالفتره، سنه كامله اعتز فيها جدا بمعرفتي فيك. تحديت نفسي اني ابرمج هالصفحه عشان ارد لك جميل الايام، رغم اني معرفتي قليله ولكن حاولت قدر المستطاع اخرج بشي جيد.
+والله لو شائت الأقدار ان اختار لي اخ بيدي بختارك انت بدون تردد، مهما كتبت اتوقع الكلمات ماراح توفيك حقك بس اتمنى تعرف لأي قدر انا ممتنه لمعرفه شخص زيك في حياتي ، شخص انبسط له بأنجازاته واذكره في ابسط الأمور بدعوه، والله انها كل ماتمطر ان اول شخص يجي على بالي انت، صراحه ما ادري ليه بس لعل الله مسخرني ادعيلك بدعوه تصب عليك الرزق وتبارك لك بعمرك وحياتك وهذا والله الي اتمناه لك. ما اسعفني الوقت اكتب رساله اكثر ترتيبًا، لكن اهم شي انها وصلتك.
+اتمنى لك سنه سعيده مليئه بالفرح والتوفيق والرزق، يا احسن صيدلي.
+
+اختك جنان.`;
 
 function showLetter() {
   document.getElementById("introText").style.opacity = 0;
@@ -21,3 +28,4 @@ function showLetter() {
     typeWriter();
   }, 600);
 }
+
