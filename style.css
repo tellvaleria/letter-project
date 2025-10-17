@@ -22,33 +22,33 @@ body {
   transition: opacity 1s ease;
 }
 .btn {
-  padding: 10px 20px;
+  padding: 40PX 80PX;
   font-size: 1rem;
   background: #f5eeef;
   border: none;
-  border-radius: 20px;
+  border-radius: 80PX;
   cursor: pointer;
   color: rgb(5, 2, 2);
   transition: 0.3s;
 }
 .btn:hover {
-  background: #b1acad;
+  background: #BF1717;
 }
 .letter {
   display: none;
   background: repeating-linear-gradient(
     to bottom,
-    #fdf6e3 0px,
-    #fdf6e3 27px,
-    #d2d2d2 28px
+    #fdf6e3 20PX,
+    #fdf6e3 47PX,
+    #d2d2d2 48PX
   );
   color: #333;
-  padding: 40PX 40PX 30px 80PX;
-  border-radius: 20PX;
-  width: 90%;
-  max-width: 700PX;
-  height: 700PX;
-  box-shadow: 0 0 30PX rgba(0, 0, 0, 0.3);
+  padding: 80PX 80PX 60px 160PX;
+  border-radius: 40PX;
+  width: 180%;
+  max-width: 1400PX;
+  height: 1400PX;
+  box-shadow: 0 0 60PX rgba(0, 0, 0, 0.3);
   font-size: 1.1rem;
   line-height: 1.6;
   text-align: left;
@@ -84,4 +84,5 @@ body {
   pointer-events: none;
   transform: rotate(-2deg);
 }
+
 
